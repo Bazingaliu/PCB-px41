@@ -1,0 +1,19 @@
+Importer Log Report
+Project : PX4FMUv2.4.6.PrjPcb
+
+Section : Analyze Document - D:\单子\飞控-200225\PX4FMUv2.4.6.brd
+    Analyzing data of D:\单子\飞控-200225\PX4FMUv2.4.6.brd
+    Load settings
+    Load layers 126
+    Load Library "pixhawk2"
+    Load Packages 43
+    Load Library "baseboard"
+    Load Packages 1
+    Load Library "con-hirose-df13"
+    Load Packages 6
+    Load Library "for-transfers"
+    Load Packages 1
+    Load Library "resistor-dil"
+    Load Packages 1
+    ERROR: Unhandled typeerrors
+EndSection
